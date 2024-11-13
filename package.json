@@ -1,0 +1,22 @@
+{
+  "name": "commit-patterns",
+  "version": "1.0.0",
+  "description": "Um site para verificar o padrão de tipos e emoji para utilizar nos commits",
+  "main": "./src/index.html",
+  "license": "MIT",
+  "private": true,
+  "author": {
+    "name": "Deibson Cogo",
+    "email": "deibsoncogo@outlook.com",
+    "url": "https://github.com/deibsoncogo/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deibsoncogo/CommitPatterns"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "emoji"
+  ]
+}
